@@ -4,5 +4,5 @@ Present participants
 
 Name - Dept - semester
 
-1.
+1. Atique - CSE - 3.2
  
