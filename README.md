@@ -2,7 +2,7 @@
 
 Present participants
 
-Name - Dept - semester
+Samantha - CSE -
 
-1. asd - asd - asd
+1. test - test -test
  
